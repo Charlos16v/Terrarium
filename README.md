@@ -2,7 +2,7 @@
 
 A small drag and drop code-meditation. With a little HTML, JS and CSS, you can build a web interface, style it, and add an interaction.
 
-![my terrarium](../images/screenshot_gray.png)
+![my terrarium](./images/screenshot_gray.png)
 
 ## Credits
 
